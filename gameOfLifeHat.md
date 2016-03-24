@@ -52,14 +52,14 @@ Cut the yarn, leaving a tail. Thread it onto a darning needle and run it through
 
 ## Variations
 
-Note that the pattern can be adapted to use contrasting colours instead of knit and purl stitches. To do this, work the rim in the main colour, then substitute as follows in the pattern/rules:
+Note that the pattern can be adapted to use contrasting colours instead of knit and purl stitches. This can be seen in the .jpg alongside this .md file. To do this, work the rim in the main colour, then substitute as follows in the pattern/rules:
 
 * knit in main colour instead of knit stitches
 * knit in contrasting colour instead of purl stitches
 
 You will inevitably need to sometimes carry the non-working colour along the back as you work your way around e.g. twist it with the working colour every five stitches or so. This will stop it from forming giant loops of yarn that are liable to tangle or get in the way when you put your hat on. Don't make the loops too tight though, otherwise your hat won't stretch enough when you put it on!
 
-It is up to you whether/how to incorporate the contrasting colour in the decrease. I haven't figured out how to keep the pattern going whilst decreasing… maybe you can!
+It is up to you whether/how to incorporate the contrasting colour in the decrease. I haven't figured out how to keep the pattern going properly whilst decreasing… maybe you can!
 
 Note also that there are many possible ways of generating 'game of life' patterns. This is just one. It was inspired by Debbie New's use of cellular automata in her fabulous book Unexpected Knitting. Feel free to learn more about cellular automata/Conway's game of life and generate your own patterns!
 
