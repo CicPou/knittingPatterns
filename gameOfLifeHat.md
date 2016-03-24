@@ -57,16 +57,16 @@ Note that the pattern can be adapted to use contrasting colours instead of knit 
 * knit in main colour instead of knit stitches
 * knit in contrasting colour instead of purl stitches
 
-You will inevitably need to sometimes carry the non-working colour along the back as you work your way around e.g. twist it with the working colour every five stitches or so. This will stop it from forming giant loops of yarn that are liable to tangle or get in the way when you put your hat on. Don't make the loops too tight though, otherwise your hat won't stretch enough when you put it on!
+You will inevitably need to sometimes carry the non-working colour along the back as you work your way around e.g. twist it with the working colour every five stitches or so. This will stop it from forming giant loops of yarn that are liable to tangle or get in the way when you put your hat on. Don't make the loops too tight though, otherwise your hat won't stretch enough when you put it on.
 
-It is up to you whether/how to incorporate the contrasting colour in the decrease. I haven't figured out how to keep the pattern going properly whilst decreasing… maybe you can!
+It is up to you whether/how to incorporate the contrasting colour in the decrease. I haven't figured out how to keep the pattern going properly whilst decreasing… maybe you can.
 
-Note also that there are many possible ways of generating 'game of life' patterns. This is just one. It was inspired by Debbie New's use of cellular automata in her fabulous book Unexpected Knitting. Feel free to learn more about cellular automata/Conway's game of life and generate your own patterns!
+Note also that there are many possible ways of generating 'game of life' patterns. This is just one. It was inspired by Debbie New's use of cellular automata in her fabulous book Unexpected Knitting. Feel free to learn more about cellular automata/Conway's game of life and generate your own patterns.
 
 ## Note
 I think it might be more aesthetically pleasing to do round 1 differently. What happens with the above is that round 1 gets quite a lot of purl stitches going, which are then 'killed off' a few rows later. This creates a few rows with no obvious pattern, followed by the start of a giant Sierpinski triangle. This looks a bit weird to me. It might be better to do something with just a few purl stitches around the 36th and 72nd stitches, e.g.:
 
-round 1: *knit 35, purl 1* repeated 2 times
+round 1: *knit 35, purl 1*. Do this twice to get all the way around.  
 round 2 and all subsequent rows until you need to decrease: follow the Rules above...
 
-I have no idea if this would work or not. I will leave it up to you to experiment!
+I may have tried this approach when I created the contrasting colour version of the have (as shown in the accompanying .jpg), but my memory is hazy. I will leave it up to you to experiment and see what works and what doesn't.
